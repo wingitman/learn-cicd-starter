@@ -26,3 +26,5 @@ You do *not* need to set up a database or any interactivity on the webpage yet. 
 1. Add a test case
 2. Test the test case is working
 3. Test that the test test case is working
+
+Wing's version of Boot.dev's Notely app.
